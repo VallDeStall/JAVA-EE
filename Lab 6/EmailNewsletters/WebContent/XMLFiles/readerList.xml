@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<readerWriter>
+    <AllReadersList>
+        <cardNumber>101</cardNumber>
+        <fullName>Fedash Vladislav Aleksandrovich</fullName>
+        <id>1</id>
+        <phoneNumber>0666333515</phoneNumber>
+    </AllReadersList>
+    <AllReadersList>
+        <cardNumber>1010</cardNumber>
+        <fullName>Shashkov Serj Vitalievich</fullName>
+        <id>2</id>
+        <phoneNumber>6543456787</phoneNumber>
+    </AllReadersList>
+</readerWriter>
