@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><library>
+    <bookMap>
+        <entry>
+            <key>
+                <id>1</id>
+            </key>
+            <value>
+                <authorOfBook>Joanne Rowling</authorOfBook>
+                <cardNumber>102</cardNumber>
+                <fullName>Shashkov Serj Vitalievich</fullName>
+                <phoneNumber>0999884784</phoneNumber>
+                <titleOfBook>Harry Potter and the Chamber of Secrets</titleOfBook>
+                <yearOfEdition>1998</yearOfEdition>
+            </value>
+        </entry>
+        <entry>
+            <key>
+                <id>2</id>
+            </key>
+            <value>
+                <authorOfBook>Joanne Rowling</authorOfBook>
+                <cardNumber>102</cardNumber>
+                <fullName>Shashkov Serj Vitalievich</fullName>
+                <phoneNumber>0999884784</phoneNumber>
+                <titleOfBook>Harry Potter and the Prisoner of Azkaban  </titleOfBook>
+                <yearOfEdition>1999</yearOfEdition>
+            </value>
+        </entry>
+        <entry>
+            <key>
+                <id>3</id>
+            </key>
+            <value>
+                <authorOfBook>Joanne Rowling</authorOfBook>
+                <cardNumber>102</cardNumber>
+                <fullName>Shashkov Serj Vitalievich</fullName>
+                <phoneNumber>0999884784</phoneNumber>
+                <titleOfBook>Harry Potter and the Goblet of Fire</titleOfBook>
+                <yearOfEdition>2000</yearOfEdition>
+            </value>
+        </entry>
+        <entry>
+            <key>
+                <id>4</id>
+            </key>
+            <value>
+                <authorOfBook>Joanne Rowling</authorOfBook>
+                <cardNumber>103</cardNumber>
+                <fullName>Kuryava Ann Olegovna</fullName>
+                <phoneNumber>0543583688</phoneNumber>
+                <titleOfBook>Harry Potter and the Order of the Phoenix</titleOfBook>
+                <yearOfEdition>2003</yearOfEdition>
+            </value>
+        </entry>
+        <entry>
+            <key>
+                <id>5</id>
+            </key>
+            <value>
+                <authorOfBook>Joanne Rowling</authorOfBook>
+                <cardNumber>103</cardNumber>
+                <fullName>Kuryava Ann Olegovna</fullName>
+                <phoneNumber>0543583688</phoneNumber>
+                <titleOfBook>Harry Potter and the Half-Blood Prince</titleOfBook>
+                <yearOfEdition>2005</yearOfEdition>
+            </value>
+        </entry>
+        <entry>
+            <key>
+                <id>6</id>
+            </key>
+            <value>
+                <authorOfBook>Joanne Rowling</authorOfBook>
+                <cardNumber>103</cardNumber>
+                <fullName>Kuryava Ann Olegovna</fullName>
+                <phoneNumber>0543583688</phoneNumber>
+                <titleOfBook>Harry Potter and the Deathly Hallows</titleOfBook>
+                <yearOfEdition>2007</yearOfEdition>
+            </value>
+        </entry>
+        <entry>
+            <key>
+                <id>7</id>
+            </key>
+            <value>
+                <authorOfBook>John Ronald Reuel Tolkien</authorOfBook>
+                <cardNumber>101</cardNumber>
+                <fullName>Fedash Vladislav Aleksandrovich</fullName>
+                <phoneNumber>0666333515</phoneNumber>
+                <titleOfBook>The Hobbit, or There and Back Again</titleOfBook>
+                <yearOfEdition>1937</yearOfEdition>
+            </value>
+        </entry>
+        <entry>
+            <key>
+                <id>8</id>
+            </key>
+            <value>
+                <authorOfBook>John Ronald Reuel Tolkien</authorOfBook>
+                <cardNumber>104</cardNumber>
+                <fullName>Gogunski Mykyta Sergeevich</fullName>
+                <phoneNumber>0978542165</phoneNumber>
+                <titleOfBook>The Lord of the Rings</titleOfBook>
+                <yearOfEdition>1954</yearOfEdition>
+            </value>
+        </entry>
+        <entry>
+            <key>
+                <id>9</id>
+            </key>
+            <value>
+                <authorOfBook>Mikhail Afanasevich Bulgakov</authorOfBook>
+                <cardNumber>105</cardNumber>
+                <fullName>Ipatov Artem Denisovich</fullName>
+                <phoneNumber>0777545682</phoneNumber>
+                <titleOfBook>The Master and Margarita</titleOfBook>
+                <yearOfEdition>1966</yearOfEdition>
+            </value>
+        </entry>
+    </bookMap>
+    <LastId>-1</LastId>
+</library>
